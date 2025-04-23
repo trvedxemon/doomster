@@ -1,0 +1,15 @@
+Website = "https://doomster.trvedxemon.com"
+
+[Details]
+Icon = "assets/Icon.png"
+Name = "Doomster"
+ID = "com.trvedxemon.doomster"
+Version = "0.0.1"
+Build = 1
+
+[LinuxAndBSD]
+  GenericName = "Doomster"
+  Categories = ["Development"]
+  Comment = "Handle and debug HTTP requests"
+  Keywords = ["http", "web", "post"]
+  ExecParams = "-x 42"
